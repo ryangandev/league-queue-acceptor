@@ -2,7 +2,7 @@
 
 A desktop tool that automatically clicks the "Accept" button in League of Legends when a match is found.
 
-> ⚠️ **Disclaimer:** This tool may violate Riot's Terms of Service and could result in a ban. Use at your own risk.
+> ⚠️ **Disclaimer: This tool may violate Riot's Terms of Service and could result in a ban. Use at your own risk.**
 
 ---
 
