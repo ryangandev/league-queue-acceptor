@@ -1,10 +1,8 @@
 # League Queue Auto-Acceptor
 
-A desktop tool that automatically clicks the "Accept" button in League of Legends when a match is found.
+A tool that automatically clicks the "Accept" button in League of Legends when a match is found.
 
-> ⚠️ **Disclaimer: This tool may violate Riot's Terms of Service and could result in a ban. Use at your own risk.**
-
----
+### ⚠️ **Disclaimer: This tool may violate Riot's Terms of Service and could result in a ban. Use at your own risk.**
 
 ## Features
 
@@ -12,8 +10,6 @@ A desktop tool that automatically clicks the "Accept" button in League of Legend
 - Human-like mouse movement and randomized delay (2–6s)
 - Start/Stop toggle and log panel
 - Supports custom button image for any screen resolution
-
----
 
 ## How to Use
 
