@@ -37,7 +37,7 @@ A desktop tool that automatically clicks the "Accept" button in League of Legend
 1. Make sure you have **pyinstaller** installed. (Should be installed if you ran `pip install -r requirements.txt`)
 2. Build the executable:
    ```bash
-   pyinstaller --onefile --windowed --add-data "accept_button.png;." main.py
+   pyinstaller --onefile --windowed main.py
    ```
    This builds a single .exe file under the `dist` directory. Navigate to the `dist` directory and run the **_main.exe_** file to start the program.
 3. Make a copy of the accept button image and place it in the same directory as the executable.
@@ -52,4 +52,4 @@ If you're using a different resolution, upload your own screenshot of the accept
 
 ## License
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/ryangandev/league-queue-acceptor/blob/main/LICENSE) licensed.
